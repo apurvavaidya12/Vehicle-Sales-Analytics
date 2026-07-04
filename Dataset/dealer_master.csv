@@ -1,0 +1,12 @@
+dealer_id,dealer_name,country,city,region,dealership_type,opening_year
+IND001,Nissan Pune,India,Pune,West,Franchise,2012
+IND002,Nissan Mumbai,India,Mumbai,West,Franchise,2014
+IND003,Nissan Bangalore,India,Bangalore,South,Franchise,2018
+USA001,Nissan Dallas,USA,Dallas,South,Owned,2010
+USA002,Nissan New York,USA,New York,East,Owned,2011
+JPN001,Nissan Tokyo,Japan,Tokyo,East,Owned,2008
+JPN002,Nissan Osaka,Japan,Osaka,West,Franchise,2013
+DEU001,Nissan Berlin,Germany,Berlin,Central,Owned,2015
+AUS001,Nissan Sydney,Australia,Sydney,East,Franchise,2016
+CAN001,Nissan Toronto,Canada,Toronto,East,Franchise,2017
+UAE001,Nissan Dubai,UAE,Dubai,Middle East,Owned,2014

@@ -1,0 +1,9 @@
+vehicle_id,vehicle_model,vehicle_type,fuel_type,base_price_usd,launch_year,status
+V001,Magnite,SUV,Petrol,12000,2020,Active
+V002,Kicks,SUV,Petrol,18000,2018,Active
+V003,X-Trail,SUV,Hybrid,45000,2023,Active
+V004,Patrol,SUV,Petrol,80000,2015,Active
+V005,Altima,Sedan,Petrol,35000,2019,Active
+V006,Sentra,Sedan,Petrol,25000,2017,Active
+V007,Leaf,EV,Electric,40000,2018,Active
+V008,Ariya,EV,Electric,55000,2022,Active

@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI temp files
+*.pbix.tmp
+
+# Python virtual environments
+venv/
+.env

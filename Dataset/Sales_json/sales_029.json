@@ -1,0 +1,512 @@
+[
+    {
+        "sale_id": "SAL00000956",
+        "sale_date": "2025-01-21",
+        "customer_id": "CUST000078",
+        "dealer_id": "CAN001",
+        "vehicle_id": "V006",
+        "quantity": 4,
+        "unit_price": 24995.24,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00000017",
+        "sale_date": "2025-01-12",
+        "customer_id": "CUST000519",
+        "dealer_id": "USA002",
+        "vehicle_id": "V001",
+        "quantity": 1,
+        "unit_price": 12550.95,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00003266",
+        "sale_date": "2025-12-16",
+        "customer_id": "CUST000062",
+        "dealer_id": "IND002",
+        "vehicle_id": "V002",
+        "quantity": 5,
+        "unit_price": 17958.75,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00002740",
+        "sale_date": "2025-04-14",
+        "customer_id": "CUST000830",
+        "dealer_id": "JPN001",
+        "vehicle_id": "V008",
+        "quantity": 2,
+        "unit_price": 53643.91,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00002387",
+        "sale_date": "2025-10-11",
+        "customer_id": "CUST000350",
+        "dealer_id": "UAE001",
+        "vehicle_id": "V003",
+        "quantity": 5,
+        "unit_price": 43398.04,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00001129",
+        "sale_date": "2025-05-11",
+        "customer_id": "CUST000841",
+        "dealer_id": "JPN001",
+        "vehicle_id": "V003",
+        "quantity": 2,
+        "unit_price": 46152.66,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00000983",
+        "sale_date": "2025-09-09",
+        "customer_id": "CUST000401",
+        "dealer_id": "USA002",
+        "vehicle_id": "V005",
+        "quantity": 2,
+        "unit_price": 36103.92,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00000924",
+        "sale_date": "2025-11-07",
+        "customer_id": "CUST000947",
+        "dealer_id": "JPN002",
+        "vehicle_id": "V004",
+        "quantity": 2,
+        "unit_price": 79747.61,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00001378",
+        "sale_date": "2025-04-09",
+        "customer_id": "CUST000553",
+        "dealer_id": "IND002",
+        "vehicle_id": "V007",
+        "quantity": 2,
+        "unit_price": 38015.48,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00001476",
+        "sale_date": "2025-06-06",
+        "customer_id": "CUST000240",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V004",
+        "quantity": 5,
+        "unit_price": 80275.86,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00004375",
+        "sale_date": "2025-04-17",
+        "customer_id": "CUST000008",
+        "dealer_id": "UAE001",
+        "vehicle_id": "V006",
+        "quantity": 2,
+        "unit_price": 25708.58,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00000730",
+        "sale_date": "2025-11-30",
+        "customer_id": "CUST000007",
+        "dealer_id": "USA001",
+        "vehicle_id": "V007",
+        "quantity": 1,
+        "unit_price": 40396.95,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00000078",
+        "sale_date": "2025-01-20",
+        "customer_id": "CUST000260",
+        "dealer_id": "CAN001",
+        "vehicle_id": "V002",
+        "quantity": 3,
+        "unit_price": 17423.5,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00003626",
+        "sale_date": "2025-07-24",
+        "customer_id": "CUST000501",
+        "dealer_id": "IND002",
+        "vehicle_id": "V002",
+        "quantity": 4,
+        "unit_price": 17234.35,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004142",
+        "sale_date": "2025-05-18",
+        "customer_id": "CUST000930",
+        "dealer_id": "JPN001",
+        "vehicle_id": "V002",
+        "quantity": 1,
+        "unit_price": 18499.1,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00004075",
+        "sale_date": "2025-07-27",
+        "customer_id": "CUST000711",
+        "dealer_id": "DEU001",
+        "vehicle_id": "V001",
+        "quantity": 1,
+        "unit_price": 12248.53,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00004316",
+        "sale_date": "2025-08-09",
+        "customer_id": "CUST000003",
+        "dealer_id": "USA002",
+        "vehicle_id": "V003",
+        "quantity": 5,
+        "unit_price": 44300.55,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00000435",
+        "sale_date": "2025-08-27",
+        "customer_id": "CUST000133",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V001",
+        "quantity": 4,
+        "unit_price": 12332.69,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00003885",
+        "sale_date": "2025-05-17",
+        "customer_id": "CUST000083",
+        "dealer_id": "USA002",
+        "vehicle_id": "V007",
+        "quantity": 5,
+        "unit_price": 40584.09,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00004587",
+        "sale_date": "2025-10-19",
+        "customer_id": "CUST000156",
+        "dealer_id": "IND001",
+        "vehicle_id": "V001",
+        "quantity": 3,
+        "unit_price": 11560.83,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00001028",
+        "sale_date": "2025-07-20",
+        "customer_id": "CUST000385",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V008",
+        "quantity": 4,
+        "unit_price": 54226.72,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00000016",
+        "sale_date": "2025-09-24",
+        "customer_id": "CUST000004",
+        "dealer_id": "USA002",
+        "vehicle_id": "V007",
+        "quantity": 3,
+        "unit_price": 38291.27,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004732",
+        "sale_date": "2025-03-15",
+        "customer_id": "CUST000472",
+        "dealer_id": "USA002",
+        "vehicle_id": "V005",
+        "quantity": 1,
+        "unit_price": 35224.27,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00001315",
+        "sale_date": "2025-04-11",
+        "customer_id": "CUST000724",
+        "dealer_id": "IND001",
+        "vehicle_id": "V005",
+        "quantity": 1,
+        "unit_price": 33937.66,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00002971",
+        "sale_date": "2025-12-24",
+        "customer_id": "CUST000942",
+        "dealer_id": "IND001",
+        "vehicle_id": "V004",
+        "quantity": 4,
+        "unit_price": 79558.27,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00003479",
+        "sale_date": "2025-11-14",
+        "customer_id": "CUST000307",
+        "dealer_id": "CAN001",
+        "vehicle_id": "V004",
+        "quantity": 3,
+        "unit_price": 82393.8,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00000246",
+        "sale_date": "2025-09-06",
+        "customer_id": "CUST000835",
+        "dealer_id": "CAN001",
+        "vehicle_id": "V005",
+        "quantity": 1,
+        "unit_price": 34777.26,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00002921",
+        "sale_date": "2025-07-28",
+        "customer_id": "CUST000422",
+        "dealer_id": "USA001",
+        "vehicle_id": "V006",
+        "quantity": 3,
+        "unit_price": 24653.54,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004277",
+        "sale_date": "2025-03-31",
+        "customer_id": "CUST000071",
+        "dealer_id": "IND001",
+        "vehicle_id": "V006",
+        "quantity": 3,
+        "unit_price": 24809.99,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00000460",
+        "sale_date": "2025-07-31",
+        "customer_id": "CUST000487",
+        "dealer_id": "IND002",
+        "vehicle_id": "V003",
+        "quantity": 1,
+        "unit_price": 44413.78,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004757",
+        "sale_date": "2025-02-24",
+        "customer_id": "CUST000053",
+        "dealer_id": "JPN001",
+        "vehicle_id": "V006",
+        "quantity": 2,
+        "unit_price": 24408.67,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00004898",
+        "sale_date": "2025-06-18",
+        "customer_id": "CUST000457",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V002",
+        "quantity": 4,
+        "unit_price": 17803.78,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00001262",
+        "sale_date": "2025-08-30",
+        "customer_id": "CUST000511",
+        "dealer_id": "USA002",
+        "vehicle_id": "V002",
+        "quantity": 3,
+        "unit_price": 17790.84,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00003256",
+        "sale_date": "2025-10-08",
+        "customer_id": "CUST000929",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V001",
+        "quantity": 2,
+        "unit_price": 12026.17,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00004523",
+        "sale_date": "2025-04-16",
+        "customer_id": "CUST000846",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V006",
+        "quantity": 2,
+        "unit_price": 24191.56,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00000696",
+        "sale_date": "2025-05-01",
+        "customer_id": "CUST000062",
+        "dealer_id": "DEU001",
+        "vehicle_id": "V006",
+        "quantity": 2,
+        "unit_price": 24074.76,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": null,
+        "sale_date": "2035-01-01",
+        "customer_id": "BAD_CUSTOMER",
+        "dealer_id": "BAD999",
+        "vehicle_id": "INVALID_VEHICLE",
+        "quantity": -1,
+        "unit_price": -5000,
+        "sales_channel": "UNKNOWN"
+    },
+    {
+        "sale_id": "SAL00000820",
+        "sale_date": "2025-11-30",
+        "customer_id": "CUST000811",
+        "dealer_id": "UAE001",
+        "vehicle_id": "V006",
+        "quantity": 2,
+        "unit_price": 24243.15,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00002102",
+        "sale_date": "2025-03-16",
+        "customer_id": "CUST000552",
+        "dealer_id": "JPN001",
+        "vehicle_id": "V002",
+        "quantity": 1,
+        "unit_price": 18532.08,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00002023",
+        "sale_date": "2025-11-23",
+        "customer_id": "CUST000677",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V007",
+        "quantity": 1,
+        "unit_price": 39664.09,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00002804",
+        "sale_date": "2025-02-27",
+        "customer_id": "CUST000373",
+        "dealer_id": "JPN002",
+        "vehicle_id": "V008",
+        "quantity": 5,
+        "unit_price": 54629.22,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00000261",
+        "sale_date": "2025-11-07",
+        "customer_id": "CUST000026",
+        "dealer_id": "IND002",
+        "vehicle_id": "V006",
+        "quantity": 5,
+        "unit_price": 25443.41,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004085",
+        "sale_date": "2025-01-24",
+        "customer_id": "CUST000229",
+        "dealer_id": "IND003",
+        "vehicle_id": "V003",
+        "quantity": 3,
+        "unit_price": 43770.7,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00002109",
+        "sale_date": "2025-08-20",
+        "customer_id": "CUST000884",
+        "dealer_id": "IND003",
+        "vehicle_id": "V001",
+        "quantity": 5,
+        "unit_price": 12350.4,
+        "sales_channel": "Dealership"
+    },
+    {
+        "sale_id": "SAL00001442",
+        "sale_date": "2025-08-23",
+        "customer_id": "CUST000895",
+        "dealer_id": "IND001",
+        "vehicle_id": "V004",
+        "quantity": 1,
+        "unit_price": 80465.3,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00001713",
+        "sale_date": "2025-03-21",
+        "customer_id": "CUST000734",
+        "dealer_id": "USA001",
+        "vehicle_id": "V005",
+        "quantity": 1,
+        "unit_price": 35678.07,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00003642",
+        "sale_date": "2025-04-08",
+        "customer_id": "CUST000932",
+        "dealer_id": "UAE001",
+        "vehicle_id": "V005",
+        "quantity": 2,
+        "unit_price": 34611.28,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00000260",
+        "sale_date": "2025-09-15",
+        "customer_id": "CUST000560",
+        "dealer_id": "AUS001",
+        "vehicle_id": "V003",
+        "quantity": 5,
+        "unit_price": 44480.77,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00002631",
+        "sale_date": "2025-12-06",
+        "customer_id": "CUST000054",
+        "dealer_id": "IND003",
+        "vehicle_id": "V002",
+        "quantity": 1,
+        "unit_price": 17471.15,
+        "sales_channel": "Online"
+    },
+    {
+        "sale_id": "SAL00004872",
+        "sale_date": "2025-08-13",
+        "customer_id": "CUST000050",
+        "dealer_id": "CAN001",
+        "vehicle_id": "V008",
+        "quantity": 3,
+        "unit_price": 57486.75,
+        "sales_channel": "Corporate"
+    },
+    {
+        "sale_id": "SAL00004681",
+        "sale_date": "2025-12-27",
+        "customer_id": "CUST000453",
+        "dealer_id": "IND002",
+        "vehicle_id": "V005",
+        "quantity": 2,
+        "unit_price": 34555.73,
+        "sales_channel": "Dealership"
+    }
+]
