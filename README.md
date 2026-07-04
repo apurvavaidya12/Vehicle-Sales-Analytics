@@ -58,13 +58,13 @@ The solution covers the complete analytics lifecycle:
 
 # 🏗️ Architecture
 
-![Architecture](Architecture_Diagram.png)
+![Architecture](Architecture/Architecture_Diagram.png)
 
 ---
 
 # ⭐ Star Schema
 
-![Star Schema](Star_Schema.png)
+![Star Schema](Architecture/Star_Schema.png)
 
 ---
 
