@@ -14,7 +14,33 @@ An end-to-end **Data Engineering and Business Intelligence** project built using
 
 This project demonstrates how raw sales data can be transformed into a scalable analytical solution using a modern **Bronze → Silver → Gold** architecture and visualized through interactive Power BI dashboards.
 
----
+## 🌟 Project Highlights
+
+- Built a complete Bronze → Silver → Gold data warehouse architecture
+- Implemented SQL-based ETL pipeline in Snowflake
+- Performed comprehensive data quality validation
+- Designed an analytical Star Schema
+- Developed three interactive Power BI dashboards
+- Managed the project using Git and GitHub
+
+Dashboard Preview
+
+<img width="1271" height="707" alt="Executive_Overview" src="https://github.com/user-attachments/assets/3301dc6e-9db0-40f6-8512-e28e54ff667b" />
+
+
+## 📑 Table of Contents
+
+- Project Overview
+- Business Problem
+- Solution Architecture
+- Technology Stack
+- Data Pipeline
+- Star Schema
+- Dashboard
+- Data Quality Checks
+- Repository Structure
+- Key Learnings
+- Future Enhancements
 
 # 📌 Project Overview
 
@@ -232,7 +258,16 @@ Nissan-Sales-Analytics
 - Business Intelligence
 - Git & GitHub
 
----
+## 🎓 Key Learnings
+
+During this project I gained practical experience in:
+
+- Designing scalable data warehouse architectures
+- Implementing ETL pipelines in Snowflake
+- Performing SQL-based data validation
+- Building analytical Star Schemas
+- Developing interactive Power BI dashboards
+- Version controlling projects using Git
 
 # 📌 Future Enhancements
 
