@@ -25,7 +25,7 @@ This project demonstrates how raw sales data can be transformed into a scalable 
 
 Dashboard Preview
 
-<img width="1271" height="707" alt="Executive_Overview" src="https://github.com/user-attachments/assets/3301dc6e-9db0-40f6-8512-e28e54ff667b" />
+<img width="762.6" height="424.2" alt="Executive_Overview" src="https://github.com/user-attachments/assets/3301dc6e-9db0-40f6-8512-e28e54ff667b" />
 
 
 ## 📑 Table of Contents
